@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		90062C57290F0C33005A4A23 /* ProfilePicturesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90062C56290F0C33005A4A23 /* ProfilePicturesList.swift */; };
 		9075E712290DDD17006DCE3F /* swift_ui_designApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9075E711290DDD17006DCE3F /* swift_ui_designApp.swift */; };
 		9075E714290DDD17006DCE3F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9075E713290DDD17006DCE3F /* ContentView.swift */; };
 		9075E716290DDD17006DCE3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9075E715290DDD17006DCE3F /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		90062C56290F0C33005A4A23 /* ProfilePicturesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfilePicturesList.swift; sourceTree = "<group>"; };
 		9075E70E290DDD17006DCE3F /* swift-ui-design.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift-ui-design.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9075E711290DDD17006DCE3F /* swift_ui_designApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_ui_designApp.swift; sourceTree = "<group>"; };
 		9075E713290DDD17006DCE3F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -41,6 +43,7 @@
 			children = (
 				9075E720290DDDB7006DCE3F /* SheetMenuView.swift */,
 				9075E71F290DDDB7006DCE3F /* TopProfileView.swift */,
+				90062C56290F0C33005A4A23 /* ProfilePicturesList.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				9075E714290DDD17006DCE3F /* ContentView.swift in Sources */,
 				9075E712290DDD17006DCE3F /* swift_ui_designApp.swift in Sources */,
 				9075E722290DDDB7006DCE3F /* SheetMenuView.swift in Sources */,
+				90062C57290F0C33005A4A23 /* ProfilePicturesList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
